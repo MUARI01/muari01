@@ -6,7 +6,7 @@ body{
 .gnl{
     margin: auto;   
     padding: 5px;
-    background-color: white;
+    background-color: rgba(0, 0, 0, 0.60);;
     width: 960px;
     border:5px solid #ad62aa;
 }
@@ -34,7 +34,7 @@ body{
 }
 .kutu1{
     width: 200px;
-    height: 420px;
+    height: 430px;
     border-radius: 10px;
     padding: 5px;
     border: 2px solid #4a47a3;
@@ -92,4 +92,7 @@ h2{
     text-transform: capitalize;
     font-size: 13px;
     text-align: center;
+}
+p{
+    color: rgba(169, 169, 169, 0.7);
 }
